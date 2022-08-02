@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+top.hisoft.swagger.security.config.Swagger2SecurityAutoConfiguration
